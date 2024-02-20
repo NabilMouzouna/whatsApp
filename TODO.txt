@@ -1,0 +1,3 @@
+1# when the contact Model is opened, I want to close when user tap outside the model or click on esc
+2# Keyboard interaction ,for example user can send message by pressing enter (return), and escape quits the conversation room...
+3# Clicking on a contact routes to the chat room with that contact
